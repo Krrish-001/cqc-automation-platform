@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pytest
+pytest-cov
+requests
+playwright
+locust
+scikit-learn
+numpy
+allure-pytest
